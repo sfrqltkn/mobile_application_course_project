@@ -3,7 +3,7 @@
 Erciyes Üniversites Mobil Aplication Final Projesi
 Konu: https://www.themealdb.com REST ile JSON biçiminde veri okuma yapabilen uygulama.
 
-####
+##
 
 <p>Okul: Erciyes Üniversitesi</p>
 
@@ -52,9 +52,13 @@ Bu uygulama, mobil geliştirmedeki en yeni araçları ve uygulamaları içerir!
 
 
 
+<br>
+<br>
+<br>
+<br>
 
-####
-####
+##
+##
 
 Erviyes University Final Project
 Konu: A food application that can read data in JSON format with REST from https://www.themealdb.com.
@@ -64,9 +68,10 @@ Konu: A food application that can read data in JSON format with REST from https:
 <p>Course: Mobile Application Development </p>
 <p>Faculty Personnel: Dr. Lecturer Member Fehim KÖYLÜ</p>
 
-##
 
 <p align="center">A food app that shows recommended dishes and categories. </p>
+
+##
 
 <br>
 <br>
@@ -100,7 +105,3 @@ This app features all the latest tools and practices in mobile development!
 - **Navigation Bar** 
 - **Routes**
 - **API** - [The MealDB](https://www.themealdb.com/api.php)
-
-
-
-Teaching personnel
