@@ -3,11 +3,17 @@
 Erciyes Üniversites Mobil Aplication Final Projesi
 Konu: https://www.themealdb.com REST ile JSON biçiminde veri okuma yapabilen uygulama.
 
-Okul: Erciyes Üniversitesi
-Bölüm: Bilgisayar Mühendisliği
-Ders: Mobile Application Development
-Öğretim Üyesi: Dr. Öğr. Üyesi Fehim KÖYLÜ
+####
 
+<p>Okul: Erciyes Üniversitesi</p>
+
+<p>Bölüm: Bilgisayar Mühendisliği</p>
+
+<p>Ders: Mobile Application Development</p>
+
+<p>Öğretim Üyesi: Dr. Öğr. Üyesi Fehim KÖYLÜ</p>
+
+##
 
 <p align="center">Önerilen yemekleri ve kategorileri gösteren bir yemek uygulaması. </p>
 
@@ -47,16 +53,18 @@ Bu uygulama, mobil geliştirmedeki en yeni araçları ve uygulamaları içerir!
 
 
 
-##
-##
+####
+####
 
 Erviyes University Final Project
 Konu: A food application that can read data in JSON format with REST from https://www.themealdb.com.
 
-University: Erciyes University
-Department: Computer Engineering
-Course: Mobile Application Development
-Faculty Personnel: Dr. Lecturer Member Fehim KÖYLÜ
+<p>University: Erciyes University </p>
+<p>Department: Computer Engineering</p>
+<p>Course: Mobile Application Development </p>
+<p>Faculty Personnel: Dr. Lecturer Member Fehim KÖYLÜ</p>
+
+##
 
 <p align="center">A food app that shows recommended dishes and categories. </p>
 
