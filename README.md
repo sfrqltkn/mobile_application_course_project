@@ -17,10 +17,18 @@ The Meal
 <pre>
      <img src="screenshot/home1.png" alt="Home Screen" height="425">      <img src="screenshot/home.gif" alt="Home Screen Gif" height="425">      <img src="screenshot/home2.png" alt="Meal Detail Screen" height="425">
 </pre>
+
 -📌 **Kategori Sayfası**
+<pre>
      <img src="screenshot/gategory.png" alt="Category Screen" height="425">     <img src="screenshot/gategory.gif" alt="Category Screen Gif" height="425">
+</pre>
+
+
 -📌 **Sonuç Kategorisi Ekranı**
- <img src="screenshot/resultCategory.gif" alt="Result Category Screen" height="425">      <img src="screenshot/resultCategory.png" alt="Result Category Screen" height="425">      <img src="screenshot/resultCategory2.gif" alt="Result Category Screen" height="425">
+<pre> 
+    <img src="screenshot/resultCategory.gif" alt="Result Category Screen" height="425">      <img src="screenshot/resultCategory.png" alt="Result Category Screen" height="425">      <img src="screenshot/resultCategory2.gif" alt="Result Category Screen" height="425">
+</pre>
+
 
 ## Özellikler 🗃️
 Bu uygulama, mobil geliştirmedeki en yeni araçları ve uygulamaları içerir!
