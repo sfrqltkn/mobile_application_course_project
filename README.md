@@ -47,7 +47,8 @@ Bu uygulama, mobil geliştirmedeki en yeni araçları ve uygulamaları içerir!
 
 
 
-# mobil_application_course_project
+##
+##
 
 Erviyes University Final Project
 Konu: A food application that can read data in JSON format with REST from https://www.themealdb.com.
