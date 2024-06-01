@@ -71,7 +71,6 @@ Konu: A food application that can read data in JSON format with REST from https:
 
 <p align="center">A food app that shows recommended dishes and categories. </p>
 
-##
 
 <br>
 <br>
